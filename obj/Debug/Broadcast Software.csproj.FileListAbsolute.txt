@@ -1,0 +1,135 @@
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Broadcast Software.exe.config
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast_Software.MainForm.resources
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast_Software.Properties.Resources.resources
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.csproj.GenerateResource.cache
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.csproj.CoreCompileInputs.cache
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.dll.config
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.dll
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.Video.dll
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.xml
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.Video.xml
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.csproj.CopyComplete
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast_Software.SettingsFom.resources
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Database.db
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\System.Data.SQLite.dll
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\System.Data.SQLite.xml
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast_Software.SceneForm.resources
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.csprojAssemblyReference.cache
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\bin\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Proiect\AAA\Broadcast Software\obj\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Database.db
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.dll.config
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Broadcast Software.exe.config
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.dll
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.Video.dll
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\System.Data.SQLite.dll
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.xml
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.Video.xml
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\System.Data.SQLite.xml
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.csprojAssemblyReference.cache
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast_Software.SceneForm.resources
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast_Software.SettingsFom.resources
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast_Software.MainForm.resources
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast_Software.Properties.Resources.resources
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.csproj.GenerateResource.cache
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.csproj.CoreCompileInputs.cache
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.csproj.CopyComplete
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Saved Data\AAA Licenta\Broadcast Software 14.10\obj\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Database.db
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.dll.config
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Broadcast Software.exe.config
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.dll
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.Video.dll
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\System.Data.SQLite.dll
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.xml
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.Video.xml
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\System.Data.SQLite.xml
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast_Software.SceneForm.resources
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast_Software.SettingsFom.resources
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast_Software.MainForm.resources
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast_Software.Properties.Resources.resources
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.csproj.GenerateResource.cache
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.csproj.CoreCompileInputs.cache
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.csproj.CopyComplete
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Licenta\Broadcast Software\obj\Debug\Broadcast Software.csproj.AssemblyReference.cache
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Database.db
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.dll.config
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Broadcast Software.exe.config
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.Video.DirectShow.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.Video.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\System.Data.SQLite.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.Video.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\Accord.Video.DirectShow.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\System.Data.SQLite.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast_Software.SceneForm.resources
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast_Software.SettingsFom.resources
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast_Software.MainForm.resources
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast_Software.Properties.Resources.resources
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.csproj.GenerateResource.cache
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.csproj.CoreCompileInputs.cache
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.exe.manifest
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.application
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.csproj.CopyComplete
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.exe
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast Software.csproj.AssemblyReference.cache
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\obj\Debug\Broadcast_Software.NewScorebarForm.resources
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\FlyleafLib.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\NAudio.Core.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\FlyleafLib.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Michele\Desktop\Funzionante\Broadcast Software\bin\Debug\SharpDX.Mathematics.xml

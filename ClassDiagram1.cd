@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Broadcast_Software.FrameControl">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Control" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.941" />
+        <Point X="1.25" Y="2.2" />
+        <Point X="3.5" Y="2.2" />
+        <Point X="3.5" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="picBox" Type="System.Windows.Forms.PictureBox">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.126" Y="0.187" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="layerBuilder" Type="Broadcast_Software.LayerBuilder">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.221" Y="0.123" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAIAAwBCAABAAAAEAAAAQAQAACAAAQgIgCAQ=</HashCode>
+      <FileName>FrameControl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="picBox" />
+      <Field Name="layerBuilder" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Broadcast_Software.LayerBuilder">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <AssociationLine Name="ScoreBarClass" Type="Broadcast_Software.ScoreBar">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.101" Y="-0.353" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AkQCGAAEAABEgECDAAQIQIoECAAAEEgEiMAkBgQoyIE=</HashCode>
+      <FileName>LayerBuilder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ScoreBarClass" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Broadcast_Software.ScoreBar">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <AssociationLine Name="layerBuilder" Type="Broadcast_Software.LayerBuilder" FixedFromPoint="true">
+      <Path>
+        <Point X="8.5" Y="7.125" />
+        <Point X="7.25" Y="7.125" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.156" Y="0.123" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>GURAAAAAAOhgAQRQCAEQBUKABwDIgQEggQQBkAggAQA=</HashCode>
+      <FileName>ScoreBar.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="layerBuilder" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Windows.Forms.Control" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.ComponentModel.Component" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Forms.PictureBox">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Broadcast_Software.ProcessHandler">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAgAAgEEALAAAACCgAAACAEAAAAAQAAE=</HashCode>
+      <FileName>ProcessHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Device" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Broadcast_Software.DeviceHandler">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <AssociationLine Name="Cam" Type="Accord.Video.DirectShow.VideoCaptureDevice">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="1.106" Y="0.063" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>OIAAIAAAgAQCAAUQJAAAQAEQAgBAAUAAEAgAIAQIAkA=</HashCode>
+      <FileName>DeviceHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Cam" />
+      <Field Name="PctBox" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Accord.Video.DirectShow.VideoCaptureDevice">
+    <Position X="15" Y="2.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Broadcast_Software.Settings">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <AssociationLine Name="Cam" Type="Accord.Video.DirectShow.VideoCaptureDevice" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="12.875" />
+        <Point X="11.167" Y="12.875" Type="JumpStart" />
+        <Point X="11.333" Y="12.875" Type="JumpEnd" />
+        <Point X="16.083" Y="12.875" />
+        <Point X="16.083" Y="10.084" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.684" Y="0.602" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CABKAAAAAEQAgAwEBAAApAQAAiABAAAAAAAAAEQABAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Cam" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
