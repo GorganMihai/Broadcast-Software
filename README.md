@@ -1,58 +1,27 @@
-Jobs Website 
+Broadcast Sport
 ==========================
-This web application consists of a SPA frontend built in React.js which uses a RESTful API for persistence (Node.js + Mariadb)
+As a graduate project I built a sports streaming platform which was used to expand the functionality of my university's proprietary platform, and which is used to broadcast sports tournaments between universities. 
+This application allows you to stream a game and show the score in a bar that can be customized.
 
 ## Features
-* React.js
-* RESTFul API
-* Maridb
-* Node.js
-* Sequelize
-* Express
-* Cors (Scross-Origin Resource)
-* Axios (HTTP request)
-* fbemitter (EventEmitter)
+* C#
+* .Net
+* FFmpeg
+* WinForms
+* RTMP (YouTube, Facebook, Twitch, Instagram)
+* Multithreading
+* ConcurrentQueue
 
 ## Screenshots
 
-<img src="./Img/overview.png" width = 600 >
-<img src="./Img/addJob.png" width = 600 >
-<img src="./Img/modify.png" width = 600 >
-<img src="./Img/addCandidate.png" width = 600 >
-<img src="./Img/viewandidates.png" width = 600 >
-<img src="./Img/database.png" width = 600 >
-
-## How to build
-
-1) Clone the repository
-
-```bash
-https://github.com/GorganMihai/Jobs-Site.git
-```
-
-2) Install all packages
-
-```bash
-npm install
-```
-
-3) Run the React app
-
-```bash
-npm start
-```
-
-3) Run the server
-
-```bash
-node app.js
-```
-
-4) Press the Sync button to create the database 
+<img src="./Img/Main.png" width = 600 >
+<img src="./Img/Settings.png" width = 600 >
+<img src="./Img/NewScorebar.png" width = 600 >
+<img src="./Img/NewScorebar2.png" width = 600 >
+<img src="./Img/Scene.png" width = 600 >
 
 # Requirements 
 
-* Mariadb
-* Node.js
-* Npm
+* Windows 10
+* FFmpeg
 
