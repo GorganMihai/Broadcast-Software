@@ -8,6 +8,7 @@ This application allows you to stream a game and show the score in a bar that ca
 * .Net
 * FFmpeg
 * WinForms
+* Fully customizable scorebar (Drag&Drop images)
 * RTMP (YouTube, Facebook, Twitch, Instagram)
 * Multithreading
 * ConcurrentQueue
